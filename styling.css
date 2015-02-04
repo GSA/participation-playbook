@@ -1,0 +1,49 @@
+.custom .format_text blockquote {
+	color: #666;
+	background: #eee;
+	margin: 0 0 1.6em .8em;
+	padding: 1.4em 1em .1em;
+	border-left: 5px solid #7F1315;
+}
+
+ul.frames {
+	font-size: 0;
+}
+
+ul.frames li {
+	font-size: 14px;
+	font-size: 1.4rem;
+	display: inline;
+}
+
+/* --- topnav --- */
+#topnav {
+	position: fixed;
+	top: 0;
+	left: 10px;
+	right: 10px;
+	padding: 5px 10px 6px;
+	z-index: 3;
+	box-shadow: 0 0 4px #555;
+	border-radius: 0 0 8px 8px;
+	background: rgb(255,255,255);
+	background: rgba(255,255,255,.9);
+	min-width: 390px;
+	z-index: 5;
+}
+
+#topnav ul {
+	margin: 0;
+	float: left;
+}
+
+#topnav li {
+	float: left;
+	margin: 0 7px;
+	font-size: 12px;
+}
+
+#topnav a {
+	text-decoration: none;
+	color: #555;
+}
