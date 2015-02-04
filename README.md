@@ -385,10 +385,10 @@ Transparency builds and maintains trust and respect with participants. When gove
 - Conduct web research and run social media analytics to analyze ways to report outcomes of participation.
 - Post articles directing users to results of past and current initiatives that encourage and require public participation, and reflect outcomes.
 
-Justin Herman
-Federal-wide Social Media Program Lead
-Office of Innovative Technologies: Department of DigitalGov
-U.S. General Services Administration
-Building the Government of the 21st Century
+Justin Herman  
+Federal-wide Social Media Program Lead  
+Office of Innovative Technologies: Department of DigitalGov  
+U.S. General Services Administration  
+Building the Government of the 21st Century  
 
 To join almost 900 digital managers across government in the #SocialGov Community, with training, resources and inter-agency collaborations led by feds across government for feds across government, please email me with "Subscribe to #SocialGov" in the subject. 
