@@ -391,4 +391,4 @@ Office of Innovative Technologies: Department of DigitalGov
 U.S. General Services Administration  
 Building the Government of the 21st Century  
 
-To join almost 900 digital managers across government in the #SocialGov Community, with training, resources and inter-agency collaborations led by feds across government for feds across government, please email me with "Subscribe to #SocialGov" in the subject. 
+To join almost 900 digital managers across government in the #SocialGov Community, with training, resources and inter-agency collaborations led by feds across government for feds across government, please email Justin Herman (justin.herman@GSA.GOV) with "Subscribe to #SocialGov" in the subject. 
